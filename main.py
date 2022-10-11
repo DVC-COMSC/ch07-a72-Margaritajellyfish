@@ -7,6 +7,7 @@ for i in range(len(num2)):
         count += 1
 if count == len(num2):
     print(True)
+else: print(False)
 # ******************************
 # Make your Code
 # ******************************
